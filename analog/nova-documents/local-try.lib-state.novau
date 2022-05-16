@@ -1,0 +1,710 @@
+{
+   "list": [],
+   "state": {
+      "activeNodeId": "",
+      "openNodes": [],
+      "markedNodes": [],
+      "showDeletedNodes": false,
+      "popupStackNodes": [],
+      "selectedStackNodeId": "",
+      "scrollPosition": 0,
+      "timeLineView": "Scene"
+   },
+   "metadata": {
+      "colorListForDocuments": [
+         {
+            "className": null,
+            "color": null,
+            "color20": null,
+            "color50": null,
+            "label": "No color"
+         },
+         {
+            "color": "#ddff55",
+            "color50": "#ddff5599",
+            "color20": "#ddff5533",
+            "label": "",
+            "className": "Light-green"
+         },
+         {
+            "color": "#ffff00",
+            "color50": "#ffff0099",
+            "color20": "#ffff0033",
+            "label": "",
+            "className": "Yellow"
+         },
+         {
+            "color": "#ffe071",
+            "color50": "#ffe07199",
+            "color20": "#ffe07133",
+            "label": "",
+            "className": "Sunflower-lighter"
+         },
+         {
+            "color": "#f6bb42",
+            "color50": "#f6bb4299",
+            "color20": "#f6bb4233",
+            "label": "",
+            "className": "Sunflower"
+         },
+         {
+            "color": "#fc8e51",
+            "color50": "#fc8e5199",
+            "color20": "#fc8e5133",
+            "label": "",
+            "className": "Bittersweet-light"
+         },
+         {
+            "color": "#e9573f",
+            "color50": "#e9573f99",
+            "color20": "#e9573f33",
+            "label": "",
+            "className": "Bittersweet"
+         },
+         {
+            "color": "#d770ad",
+            "color50": "#d770ad99",
+            "color20": "#d770ad33",
+            "label": "",
+            "className": "Pink-rose"
+         },
+         {
+            "color": "#ff91e7",
+            "color50": "#ff91e799",
+            "color20": "#ff91e733",
+            "label": "",
+            "className": "Pink-rose-lighter"
+         },
+         {
+            "color": "#967adc",
+            "color50": "#967adc99",
+            "color20": "#967adc33",
+            "label": "",
+            "className": "Lavender"
+         },
+         {
+            "color": "#bcb2fc",
+            "color50": "#bcb2fc99",
+            "color20": "#bcb2fc33",
+            "label": "",
+            "className": "Lavender-ligther"
+         },
+         {
+            "color": "#7ea9ff",
+            "color50": "#7ea9ff99",
+            "color20": "#7ea9ff33",
+            "label": "",
+            "className": "Blue-jeans-ligher"
+         },
+         {
+            "color": "#4a89dc",
+            "color50": "#4a89dc99",
+            "color20": "#4a89dc33",
+            "label": "",
+            "className": "Blue-jeans"
+         },
+         {
+            "color": "#3bafda",
+            "color50": "#3bafda99",
+            "color20": "#3bafda33",
+            "label": "",
+            "className": "Aqua"
+         },
+         {
+            "color": "#58dfbd",
+            "color50": "#58dfbd99",
+            "color20": "#58dfbd33",
+            "label": "",
+            "className": "Mint-lighter"
+         },
+         {
+            "color": "#c0e478",
+            "color50": "#c0e47899",
+            "color20": "#c0e47833",
+            "label": "",
+            "className": "Grass-lighter"
+         },
+         {
+            "color": "#8cc152",
+            "color50": "#8cc15299",
+            "color20": "#8cc15233",
+            "label": "",
+            "className": "Grass"
+         },
+         {
+            "color": "#aab2bd",
+            "color50": "#aab2bd99",
+            "color20": "#aab2bd33",
+            "label": "",
+            "className": "Mid-grey"
+         },
+         {
+            "color": "#e6e9ed",
+            "color50": "#e6e9ed99",
+            "color20": "#e6e9ed33",
+            "label": "",
+            "className": "light-grey"
+         }
+      ],
+      "colorListForRelatedItems": [
+         {
+            "className": null,
+            "color": null,
+            "color20": null,
+            "color50": null,
+            "label": "No color"
+         },
+         {
+            "color": "#ddff55",
+            "color50": "#ddff5599",
+            "color20": "#ddff5533",
+            "label": "",
+            "className": "Light-green"
+         },
+         {
+            "color": "#ffff00",
+            "color50": "#ffff0099",
+            "color20": "#ffff0033",
+            "label": "",
+            "className": "Yellow"
+         },
+         {
+            "color": "#ffe071",
+            "color50": "#ffe07199",
+            "color20": "#ffe07133",
+            "label": "",
+            "className": "Sunflower-lighter"
+         },
+         {
+            "color": "#f6bb42",
+            "color50": "#f6bb4299",
+            "color20": "#f6bb4233",
+            "label": "",
+            "className": "Sunflower"
+         },
+         {
+            "color": "#fc8e51",
+            "color50": "#fc8e5199",
+            "color20": "#fc8e5133",
+            "label": "",
+            "className": "Bittersweet-light"
+         },
+         {
+            "color": "#e9573f",
+            "color50": "#e9573f99",
+            "color20": "#e9573f33",
+            "label": "",
+            "className": "Bittersweet"
+         },
+         {
+            "color": "#d770ad",
+            "color50": "#d770ad99",
+            "color20": "#d770ad33",
+            "label": "",
+            "className": "Pink-rose"
+         },
+         {
+            "color": "#ff91e7",
+            "color50": "#ff91e799",
+            "color20": "#ff91e733",
+            "label": "",
+            "className": "Pink-rose-lighter"
+         },
+         {
+            "color": "#967adc",
+            "color50": "#967adc99",
+            "color20": "#967adc33",
+            "label": "",
+            "className": "Lavender"
+         },
+         {
+            "color": "#bcb2fc",
+            "color50": "#bcb2fc99",
+            "color20": "#bcb2fc33",
+            "label": "",
+            "className": "Lavender-ligther"
+         },
+         {
+            "color": "#7ea9ff",
+            "color50": "#7ea9ff99",
+            "color20": "#7ea9ff33",
+            "label": "",
+            "className": "Blue-jeans-ligher"
+         },
+         {
+            "color": "#4a89dc",
+            "color50": "#4a89dc99",
+            "color20": "#4a89dc33",
+            "label": "",
+            "className": "Blue-jeans"
+         },
+         {
+            "color": "#3bafda",
+            "color50": "#3bafda99",
+            "color20": "#3bafda33",
+            "label": "",
+            "className": "Aqua"
+         },
+         {
+            "color": "#58dfbd",
+            "color50": "#58dfbd99",
+            "color20": "#58dfbd33",
+            "label": "",
+            "className": "Mint-lighter"
+         },
+         {
+            "color": "#c0e478",
+            "color50": "#c0e47899",
+            "color20": "#c0e47833",
+            "label": "",
+            "className": "Grass-lighter"
+         },
+         {
+            "color": "#8cc152",
+            "color50": "#8cc15299",
+            "color20": "#8cc15233",
+            "label": "",
+            "className": "Grass"
+         },
+         {
+            "color": "#aab2bd",
+            "color50": "#aab2bd99",
+            "color20": "#aab2bd33",
+            "label": "",
+            "className": "Mid-grey"
+         },
+         {
+            "color": "#e6e9ed",
+            "color50": "#e6e9ed99",
+            "color20": "#e6e9ed33",
+            "label": "",
+            "className": "light-grey"
+         }
+      ],
+      "doLocalAutoBackup": true,
+      "filterNavOnList": [],
+      "maxRank": 2,
+      "showTranslationPane": false,
+      "colorListForDocumentsExtended": [
+         [
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green-l"
+            },
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green"
+            },
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green-d"
+            }
+         ],
+         [
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow-l"
+            },
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow"
+            },
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow-d"
+            }
+         ],
+         [
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter-l"
+            },
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter"
+            },
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower-l"
+            },
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower"
+            },
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower-d"
+            }
+         ],
+         [
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light-l"
+            },
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light"
+            },
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light-d"
+            }
+         ],
+         [
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet-l"
+            },
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet"
+            },
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet-d"
+            }
+         ],
+         [
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose-l"
+            },
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose"
+            },
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose-d"
+            }
+         ],
+         [
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter-l"
+            },
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter"
+            },
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender-l"
+            },
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender"
+            },
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender-d"
+            }
+         ],
+         [
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther-l"
+            },
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther"
+            },
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther-d"
+            }
+         ],
+         [
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher-l"
+            },
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher"
+            },
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher-d"
+            }
+         ],
+         [
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans-l"
+            },
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans"
+            },
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans-d"
+            }
+         ],
+         [
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua-l"
+            },
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua"
+            },
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua-d"
+            }
+         ],
+         [
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter-l"
+            },
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter"
+            },
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter-l"
+            },
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter"
+            },
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass-l"
+            },
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass"
+            },
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass-d"
+            }
+         ],
+         [
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey-l"
+            },
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey"
+            },
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey-d"
+            }
+         ],
+         [
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey-l"
+            },
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey"
+            },
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey-d"
+            }
+         ]
+      ]
+   },
+   "searchReplace": {},
+   "id": "try.lib",
+   "type": "ProjectLib",
+   "userName": "na",
+   "machineId": "local"
+}

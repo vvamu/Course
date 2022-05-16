@@ -1,0 +1,70 @@
+{
+   "id": "Plot items.try.lib",
+   "name": "Plot items",
+   "summary": "This folder contains all the plot items in your story. You can group them in folders as a next step.",
+   "type": "Binder",
+   "treeDepth": 0,
+   "disabled": true,
+   "parentId": null,
+   "index": 2,
+   "showInNav": true,
+   "parentIsOpen": true,
+   "isOpen": false,
+   "projectId": "try.lib",
+   "isNew": true,
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {},
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "done": [],
+      "inProgress": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146982,
+   "subNodesRelatedItems": []
+}

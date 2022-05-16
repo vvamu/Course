@@ -1,0 +1,68 @@
+{
+   "id": "Timelines.shared.lib",
+   "name": "Time lines",
+   "summary": "This folder contains all the time lines for your project. You can group them in folders as a next step.",
+   "type": "Timelines",
+   "treeDepth": 0,
+   "disabled": true,
+   "parentIsOpen": true,
+   "isOpen": true,
+   "showInNav": true,
+   "projectId": "shared.lib",
+   "isNew": true,
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {},
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "done": [],
+      "inProgress": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146923,
+   "subNodesRelatedItems": []
+}

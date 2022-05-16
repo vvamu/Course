@@ -1,0 +1,17 @@
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\bin\Debug\NuChacter.exe.config
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\bin\Debug\NuChacter.exe
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\bin\Debug\NuChacter.pdb
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.csproj.AssemblyReference.cache
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.csproj.SuggestedBindingRedirects.cache
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\Views\MainWindow.g.cs
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\App.g.cs
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter_MarkupCompile.cache
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter_MarkupCompile.lref
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\Views\MainWindow.baml
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.g.resources
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.Properties.Resources.resources
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.csproj.GenerateResource.cache
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.csproj.CoreCompileInputs.cache
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.exe
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\NuChacter.pdb
+C:\mine\study\2cour2sem\Курсовой\Проект\NuChacter\obj\Debug\App.baml

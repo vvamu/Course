@@ -1,0 +1,64 @@
+{
+   "id": "9.29",
+   "projectId": "try",
+   "name": "Chapter 1",
+   "summary": "The first chapter of my novel",
+   "treeDepth": 1,
+   "publish": true,
+   "type": "Chapter",
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {},
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "done": [],
+      "inProgress": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146624,
+   "subNodesRelatedItems": []
+}

@@ -1,0 +1,722 @@
+{
+   "list": [],
+   "state": {
+      "activeNodeId": "Characters.shared.lib",
+      "openNodes": [
+         "Characters.shared.lib"
+      ],
+      "markedNodes": [],
+      "showDeletedNodes": false,
+      "popupStackNodes": [
+         "Characters.shared.lib",
+         "458493.1063",
+         "458493.0743",
+         "458493.0810",
+         "Research.try.lib"
+      ],
+      "selectedStackNodeId": "458493.0810",
+      "scrollPosition": 0,
+      "timeLineView": "Scene"
+   },
+   "metadata": {
+      "colorListForDocuments": [
+         {
+            "className": null,
+            "color": null,
+            "color20": null,
+            "color50": null,
+            "label": "No color"
+         },
+         {
+            "color": "#ddff55",
+            "color50": "#ddff5599",
+            "color20": "#ddff5533",
+            "label": "",
+            "className": "Light-green"
+         },
+         {
+            "color": "#ffff00",
+            "color50": "#ffff0099",
+            "color20": "#ffff0033",
+            "label": "",
+            "className": "Yellow"
+         },
+         {
+            "color": "#ffe071",
+            "color50": "#ffe07199",
+            "color20": "#ffe07133",
+            "label": "",
+            "className": "Sunflower-lighter"
+         },
+         {
+            "color": "#f6bb42",
+            "color50": "#f6bb4299",
+            "color20": "#f6bb4233",
+            "label": "",
+            "className": "Sunflower"
+         },
+         {
+            "color": "#fc8e51",
+            "color50": "#fc8e5199",
+            "color20": "#fc8e5133",
+            "label": "",
+            "className": "Bittersweet-light"
+         },
+         {
+            "color": "#e9573f",
+            "color50": "#e9573f99",
+            "color20": "#e9573f33",
+            "label": "",
+            "className": "Bittersweet"
+         },
+         {
+            "color": "#d770ad",
+            "color50": "#d770ad99",
+            "color20": "#d770ad33",
+            "label": "",
+            "className": "Pink-rose"
+         },
+         {
+            "color": "#ff91e7",
+            "color50": "#ff91e799",
+            "color20": "#ff91e733",
+            "label": "",
+            "className": "Pink-rose-lighter"
+         },
+         {
+            "color": "#967adc",
+            "color50": "#967adc99",
+            "color20": "#967adc33",
+            "label": "",
+            "className": "Lavender"
+         },
+         {
+            "color": "#bcb2fc",
+            "color50": "#bcb2fc99",
+            "color20": "#bcb2fc33",
+            "label": "",
+            "className": "Lavender-ligther"
+         },
+         {
+            "color": "#7ea9ff",
+            "color50": "#7ea9ff99",
+            "color20": "#7ea9ff33",
+            "label": "",
+            "className": "Blue-jeans-ligher"
+         },
+         {
+            "color": "#4a89dc",
+            "color50": "#4a89dc99",
+            "color20": "#4a89dc33",
+            "label": "",
+            "className": "Blue-jeans"
+         },
+         {
+            "color": "#3bafda",
+            "color50": "#3bafda99",
+            "color20": "#3bafda33",
+            "label": "",
+            "className": "Aqua"
+         },
+         {
+            "color": "#58dfbd",
+            "color50": "#58dfbd99",
+            "color20": "#58dfbd33",
+            "label": "",
+            "className": "Mint-lighter"
+         },
+         {
+            "color": "#c0e478",
+            "color50": "#c0e47899",
+            "color20": "#c0e47833",
+            "label": "",
+            "className": "Grass-lighter"
+         },
+         {
+            "color": "#8cc152",
+            "color50": "#8cc15299",
+            "color20": "#8cc15233",
+            "label": "",
+            "className": "Grass"
+         },
+         {
+            "color": "#aab2bd",
+            "color50": "#aab2bd99",
+            "color20": "#aab2bd33",
+            "label": "",
+            "className": "Mid-grey"
+         },
+         {
+            "color": "#e6e9ed",
+            "color50": "#e6e9ed99",
+            "color20": "#e6e9ed33",
+            "label": "",
+            "className": "light-grey"
+         }
+      ],
+      "colorListForRelatedItems": [
+         {
+            "className": null,
+            "color": null,
+            "color20": null,
+            "color50": null,
+            "label": "No color"
+         },
+         {
+            "color": "#ddff55",
+            "color50": "#ddff5599",
+            "color20": "#ddff5533",
+            "label": "",
+            "className": "Light-green"
+         },
+         {
+            "color": "#ffff00",
+            "color50": "#ffff0099",
+            "color20": "#ffff0033",
+            "label": "",
+            "className": "Yellow"
+         },
+         {
+            "color": "#ffe071",
+            "color50": "#ffe07199",
+            "color20": "#ffe07133",
+            "label": "",
+            "className": "Sunflower-lighter"
+         },
+         {
+            "color": "#f6bb42",
+            "color50": "#f6bb4299",
+            "color20": "#f6bb4233",
+            "label": "",
+            "className": "Sunflower"
+         },
+         {
+            "color": "#fc8e51",
+            "color50": "#fc8e5199",
+            "color20": "#fc8e5133",
+            "label": "",
+            "className": "Bittersweet-light"
+         },
+         {
+            "color": "#e9573f",
+            "color50": "#e9573f99",
+            "color20": "#e9573f33",
+            "label": "",
+            "className": "Bittersweet"
+         },
+         {
+            "color": "#d770ad",
+            "color50": "#d770ad99",
+            "color20": "#d770ad33",
+            "label": "",
+            "className": "Pink-rose"
+         },
+         {
+            "color": "#ff91e7",
+            "color50": "#ff91e799",
+            "color20": "#ff91e733",
+            "label": "",
+            "className": "Pink-rose-lighter"
+         },
+         {
+            "color": "#967adc",
+            "color50": "#967adc99",
+            "color20": "#967adc33",
+            "label": "",
+            "className": "Lavender"
+         },
+         {
+            "color": "#bcb2fc",
+            "color50": "#bcb2fc99",
+            "color20": "#bcb2fc33",
+            "label": "",
+            "className": "Lavender-ligther"
+         },
+         {
+            "color": "#7ea9ff",
+            "color50": "#7ea9ff99",
+            "color20": "#7ea9ff33",
+            "label": "",
+            "className": "Blue-jeans-ligher"
+         },
+         {
+            "color": "#4a89dc",
+            "color50": "#4a89dc99",
+            "color20": "#4a89dc33",
+            "label": "",
+            "className": "Blue-jeans"
+         },
+         {
+            "color": "#3bafda",
+            "color50": "#3bafda99",
+            "color20": "#3bafda33",
+            "label": "",
+            "className": "Aqua"
+         },
+         {
+            "color": "#58dfbd",
+            "color50": "#58dfbd99",
+            "color20": "#58dfbd33",
+            "label": "",
+            "className": "Mint-lighter"
+         },
+         {
+            "color": "#c0e478",
+            "color50": "#c0e47899",
+            "color20": "#c0e47833",
+            "label": "",
+            "className": "Grass-lighter"
+         },
+         {
+            "color": "#8cc152",
+            "color50": "#8cc15299",
+            "color20": "#8cc15233",
+            "label": "",
+            "className": "Grass"
+         },
+         {
+            "color": "#aab2bd",
+            "color50": "#aab2bd99",
+            "color20": "#aab2bd33",
+            "label": "",
+            "className": "Mid-grey"
+         },
+         {
+            "color": "#e6e9ed",
+            "color50": "#e6e9ed99",
+            "color20": "#e6e9ed33",
+            "label": "",
+            "className": "light-grey"
+         }
+      ],
+      "doLocalAutoBackup": true,
+      "filterNavOnList": [],
+      "maxRank": 2,
+      "showTranslationPane": false,
+      "colorListForDocumentsExtended": [
+         [
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green-l"
+            },
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green"
+            },
+            {
+               "color": "#ddff55",
+               "color50": "#ddff5599",
+               "color20": "#ddff5533",
+               "label": "",
+               "className": "Light-green-d"
+            }
+         ],
+         [
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow-l"
+            },
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow"
+            },
+            {
+               "color": "#ffff00",
+               "color50": "#ffff0099",
+               "color20": "#ffff0033",
+               "label": "",
+               "className": "Yellow-d"
+            }
+         ],
+         [
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter-l"
+            },
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter"
+            },
+            {
+               "color": "#ffe071",
+               "color50": "#ffe07199",
+               "color20": "#ffe07133",
+               "label": "",
+               "className": "Sunflower-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower-l"
+            },
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower"
+            },
+            {
+               "color": "#f6bb42",
+               "color50": "#f6bb4299",
+               "color20": "#f6bb4233",
+               "label": "",
+               "className": "Sunflower-d"
+            }
+         ],
+         [
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light-l"
+            },
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light"
+            },
+            {
+               "color": "#fc8e51",
+               "color50": "#fc8e5199",
+               "color20": "#fc8e5133",
+               "label": "",
+               "className": "Bittersweet-light-d"
+            }
+         ],
+         [
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet-l"
+            },
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet"
+            },
+            {
+               "color": "#e9573f",
+               "color50": "#e9573f99",
+               "color20": "#e9573f33",
+               "label": "",
+               "className": "Bittersweet-d"
+            }
+         ],
+         [
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose-l"
+            },
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose"
+            },
+            {
+               "color": "#d770ad",
+               "color50": "#d770ad99",
+               "color20": "#d770ad33",
+               "label": "",
+               "className": "Pink-rose-d"
+            }
+         ],
+         [
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter-l"
+            },
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter"
+            },
+            {
+               "color": "#ff91e7",
+               "color50": "#ff91e799",
+               "color20": "#ff91e733",
+               "label": "",
+               "className": "Pink-rose-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender-l"
+            },
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender"
+            },
+            {
+               "color": "#967adc",
+               "color50": "#967adc99",
+               "color20": "#967adc33",
+               "label": "",
+               "className": "Lavender-d"
+            }
+         ],
+         [
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther-l"
+            },
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther"
+            },
+            {
+               "color": "#bcb2fc",
+               "color50": "#bcb2fc99",
+               "color20": "#bcb2fc33",
+               "label": "",
+               "className": "Lavender-ligther-d"
+            }
+         ],
+         [
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher-l"
+            },
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher"
+            },
+            {
+               "color": "#7ea9ff",
+               "color50": "#7ea9ff99",
+               "color20": "#7ea9ff33",
+               "label": "",
+               "className": "Blue-jeans-ligher-d"
+            }
+         ],
+         [
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans-l"
+            },
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans"
+            },
+            {
+               "color": "#4a89dc",
+               "color50": "#4a89dc99",
+               "color20": "#4a89dc33",
+               "label": "",
+               "className": "Blue-jeans-d"
+            }
+         ],
+         [
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua-l"
+            },
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua"
+            },
+            {
+               "color": "#3bafda",
+               "color50": "#3bafda99",
+               "color20": "#3bafda33",
+               "label": "",
+               "className": "Aqua-d"
+            }
+         ],
+         [
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter-l"
+            },
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter"
+            },
+            {
+               "color": "#58dfbd",
+               "color50": "#58dfbd99",
+               "color20": "#58dfbd33",
+               "label": "",
+               "className": "Mint-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter-l"
+            },
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter"
+            },
+            {
+               "color": "#c0e478",
+               "color50": "#c0e47899",
+               "color20": "#c0e47833",
+               "label": "",
+               "className": "Grass-lighter-d"
+            }
+         ],
+         [
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass-l"
+            },
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass"
+            },
+            {
+               "color": "#8cc152",
+               "color50": "#8cc15299",
+               "color20": "#8cc15233",
+               "label": "",
+               "className": "Grass-d"
+            }
+         ],
+         [
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey-l"
+            },
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey"
+            },
+            {
+               "color": "#aab2bd",
+               "color50": "#aab2bd99",
+               "color20": "#aab2bd33",
+               "label": "",
+               "className": "Mid-grey-d"
+            }
+         ],
+         [
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey-l"
+            },
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey"
+            },
+            {
+               "color": "#e6e9ed",
+               "color50": "#e6e9ed99",
+               "color20": "#e6e9ed33",
+               "label": "",
+               "className": "light-grey-d"
+            }
+         ]
+      ],
+      "editorFontsize": "14",
+      "lineHeight": 1.5,
+      "fontFamily": "Georgia",
+      "editorCss": "\n/* WORD CSS */\n/* Basis: undefined */\n\nh1  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 1';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 42pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nh2  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 2';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 33.6pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nh3  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 3';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 26.9pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nh4  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 4';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 21.5pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nh5  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 5';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 17.2pt !important;\n  font-family: Georgia !important;\n  font-weight: bold !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nh6  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 6';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: bold !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n  font-style:italic;\n}\n\nh7  {\n  /* Word Style hook*/\n  mso-style-name: 'Heading 7';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: bold !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n  font-style:italic;\n  text-decoration:underline;\n}\n\n\np  {\n  /* Word Style hook*/\n  mso-style-name: 'Body text';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0.5cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\np.imageline  {\n  /* Word Style hook*/\n  mso-style-name: 'Body image line';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\np.firstline  {\n  /* Word Style hook*/\n  mso-style-name: 'Body first line';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0cm;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\nul  {\n  /* Word Style hook*/\n  mso-style-name: 'Bullet list style';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 1cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: 0pt;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\nli  {\n  /* Word Style hook*/\n  mso-style-name: 'Listitem style';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 10px;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: ;\n  padding-right: 0cm;\n  text-indent: 0pt;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\nol  {\n  /* Word Style hook*/\n  mso-style-name: 'Sorted list style';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 10px;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: ;\n  padding-right: 0cm;\n  text-indent: 0pt;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\ntd  {\n  /* Word Style hook*/\n  mso-style-name: 'Table cell style';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: .5cm;\n  padding-right: .5cm;\n  text-indent: 0pt;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\nvertical-align:top;\n}\n\n.pagebreak{\n  page-break-after: always;\n}\n.align-right {\n\n  text-align: right !important;\n}\n.align-center {\n  text-indent: 0cm !important;\n  text-align: center !important;\n}\n.empty{\n  min-height:1rem;\n}\n\ntable{\n  border-collapse:collapse;\n  width:100%;\n}\n\nblockquote p {\n  /* Word Style hook*/\n  mso-style-name: 'Blockquote';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: undefined;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\nblockquote p.firstline {\n  /* Word Style hook*/\n  mso-style-name: 'Blockquote';\n  mso-style-next: Standaard;\n  mso-style-qformat: yes;\n\n  /* Margins and indent */\n  margin-top: 0cm;\n  margin-bottom: 0cm;\n  margin-left: 0cm;\n  margin-right: 0cm;\n  padding-top: 0cm;\n  padding-bottom: 0cm;\n  padding-left: 0cm;\n  padding-right: 0cm;\n  text-indent: undefined;\n\n  /* Font and line spacing */\n  line-height: 150%;\n  font-size: 14pt !important;\n  font-family: Georgia !important;\n  font-weight: normal !important;\n  font-style: normal !important;\n  text-align: left;\n  text-transform: none;\n\n  border-top: 0px none #000;\n  border-bottom: 0px none #000;\n\n}\n\n\n.align-right {\n\n  text-align: right !important;\n}\n.align-center {\n  text-indent: 0cm !important;\n  text-align: center !important;\n}\n"
+   },
+   "searchReplace": {},
+   "id": "try",
+   "type": "Project",
+   "userName": "na",
+   "machineId": "local"
+}

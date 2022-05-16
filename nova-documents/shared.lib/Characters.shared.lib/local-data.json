@@ -1,0 +1,108 @@
+{
+   "id": "Characters.shared.lib",
+   "name": "Characters",
+   "summary": "This folder contains all the characters in your project. You can group them in folders as a next step.",
+   "type": "Characters",
+   "treeDepth": 0,
+   "disabled": true,
+   "parentIsOpen": true,
+   "isOpen": true,
+   "showInNav": true,
+   "projectId": "shared.lib",
+   "isNew": false,
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [
+            {
+               "id": "Characters.shared.lib",
+               "x": 20,
+               "y": 20,
+               "pageNumber": 1
+            }
+         ],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {
+      "Collected": {
+         "uniqueWordFullList": [],
+         "paragraphCount": 0,
+         "names": [],
+         "sentenceCount": 0,
+         "uniqueWordCount": 0,
+         "sentenceStatistics": [],
+         "wordcount": 0,
+         "uniqueWordList": [],
+         "avgWordsPerParagraph": null,
+         "dialogCount": 0,
+         "wordcountInDialogs": 0
+      }
+   },
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "inProgress": [],
+      "done": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview",
+      "commentsType": "All-comments"
+   },
+   "roughWordCountCumulative": 0,
+   "wordCountHistory": {
+      "19103": 0
+   },
+   "isReferredBy": [],
+   "selectedSubTab": {
+      "type": "Notes",
+      "label": "Notes",
+      "hasData": true,
+      "isMeta": false,
+      "brief": "Notes on your chapter, document, characters or scene. Will not be published on export.",
+      "briefInfo": "An overview of all notes in this segment of your document"
+   },
+   "subNodesRelatedItems": [],
+   "relatedGrouped": [],
+   "lastSave": 1650575440822,
+   "settingsChangeLog": {
+      "relatedItems": "2022-04-21T19:40:33.539Z"
+   },
+   "filedirectory": "C:\\mine\\study\\2cour2sem\\КУРСАЧ МОЙ\\nova-documents\\shared.lib\\Characters.shared.lib",
+   "unresolvedDocumentCommentCount": 1
+}

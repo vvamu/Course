@@ -1,0 +1,82 @@
+{
+   "id": "9.29",
+   "projectId": "try",
+   "name": "Chapter 1",
+   "summary": "The first chapter of my novel",
+   "treeDepth": 1,
+   "publish": true,
+   "type": "Chapter",
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {
+      "Document": {
+         "wordcount": 0,
+         "paragraphCount": 1,
+         "avgWordsPerParagraph": 0,
+         "uniqueWordCount": 0,
+         "uniqueWordList": [],
+         "uniqueWordFullList": [],
+         "names": [],
+         "sentenceCount": 0,
+         "sentenceStatistics": [],
+         "wordcountInDialogs": 0,
+         "dialogCount": 0
+      }
+   },
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "inProgress": [],
+      "done": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146624,
+   "subNodesRelatedItems": [],
+   "settingsChangeLog": {},
+   "spellCheckSuggestions": [],
+   "filedirectory": "C:\\mine\\study\\2cour2sem\\КУРСАЧ МОЙ\\nova-documents\\try\\9.29",
+   "roughWordCount": 0
+}

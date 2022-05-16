@@ -1,0 +1,88 @@
+{
+   "id": "7.14",
+   "projectId": "try",
+   "name": "Scene 1",
+   "summary": "My first scene",
+   "treeDepth": 1,
+   "publish": true,
+   "type": "Scene",
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {
+      "Document": {
+         "wordcount": 0,
+         "paragraphCount": 1,
+         "avgWordsPerParagraph": 0,
+         "uniqueWordCount": 0,
+         "uniqueWordList": [],
+         "uniqueWordFullList": [],
+         "names": [],
+         "sentenceCount": 1,
+         "sentenceStatistics": [
+            {
+               "key": "1 - 5 words",
+               "index": 0,
+               "value": 0
+            }
+         ],
+         "wordcountInDialogs": 0,
+         "dialogCount": 0
+      }
+   },
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "inProgress": [],
+      "done": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146619,
+   "subNodesRelatedItems": [],
+   "settingsChangeLog": {},
+   "spellCheckSuggestions": [],
+   "filedirectory": "C:\\mine\\study\\2cour2sem\\КУРСАЧ МОЙ\\nova-documents\\try\\7.14",
+   "roughWordCount": 0
+}

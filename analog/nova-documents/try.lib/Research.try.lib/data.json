@@ -1,0 +1,122 @@
+{
+   "id": "Research.try.lib",
+   "name": "Research",
+   "summary": "This folder contains all the research for your project. You can group them in folders as a next step.",
+   "type": "Research",
+   "treeDepth": 0,
+   "disabled": true,
+   "parentId": null,
+   "index": 1,
+   "showInNav": true,
+   "parentIsOpen": true,
+   "isOpen": false,
+   "projectId": "try.lib",
+   "isNew": false,
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [
+            {
+               "fromId": "Resea-illustration-Notes.try.lib-page-1.svg",
+               "toId": "Research.try.lib",
+               "deleted": false,
+               "color": "#555",
+               "width": 4,
+               "pageNumber": 1,
+               "lineType": null
+            }
+         ],
+         "relatedPostion": [
+            {
+               "id": "Research.try.lib",
+               "x": 20,
+               "y": 20,
+               "pageNumber": 1
+            }
+         ],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [
+      {
+         "location": "nova-documents\\images/Resea-illustration-Notes.try.lib-page-1.svg",
+         "thumb": "nova-documents\\images/Resea-illustration-Notes.try.lib-page-1.svg",
+         "mediumSize": "nova-documents\\images/Resea-illustration-Notes.try.lib-page-1.svg",
+         "name": "illustration-Notes.try.lib-page-1.svg",
+         "changeLog": {
+            "name": "2022-04-21T20:36:53.256Z",
+            "type": "2022-04-21T20:36:53.256Z",
+            "description": "2022-04-21T20:36:53.256Z",
+            "isDeleted": "2022-04-21T20:36:53.256Z",
+            "index": "2022-04-21T20:36:53.256Z"
+         }
+      }
+   ],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {},
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "inProgress": [],
+      "done": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "history",
+      "commentsType": "All-comments",
+      "analysisType": "Statistics",
+      "archiveView": "text"
+   },
+   "roughWordCountCumulative": 0,
+   "wordCountHistory": {
+      "19103": 0
+   },
+   "isReferredBy": [],
+   "selectedSubTab": {
+      "type": "Research",
+      "label": "Research",
+      "hasData": true,
+      "isMeta": false,
+      "brief": "Use research to save your links and sources",
+      "briefInfo": "An overview of all research in this segment of your document"
+   },
+   "subNodesRelatedItems": [],
+   "relatedGrouped": [],
+   "lastSave": 1650573413248,
+   "settingsChangeLog": {
+      "relatedItems": "2022-04-21T19:40:33.539Z"
+   },
+   "filedirectory": "C:\\mine\\study\\2cour2sem\\КУРСАЧ МОЙ\\nova-documents\\try.lib\\Research.try.lib",
+   "unresolvedDocumentCommentCount": 1
+}

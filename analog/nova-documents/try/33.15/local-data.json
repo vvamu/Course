@@ -1,0 +1,195 @@
+{
+   "id": "33.15",
+   "projectId": "try",
+   "name": "NovaScriber: A brief introduction",
+   "summary": "My Writing note",
+   "treeDepth": 1,
+   "publish": true,
+   "type": "Document",
+   "diagramPages": [
+      {
+         "pageNumber": 1,
+         "title": "Page 1",
+         "summary": "",
+         "relatedConnections": [],
+         "relatedPostion": [],
+         "visibleNodes": []
+      }
+   ],
+   "currentDiagramPage": 1,
+   "images": [],
+   "buildupAction": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupConflict": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupDetermination": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "buildupMood": {
+      "image": "neutral.PNG",
+      "name": "Neutral"
+   },
+   "status": 0,
+   "rank": 1,
+   "documentAnalysis": {
+      "Document": {
+         "wordcount": 1238,
+         "paragraphCount": 75,
+         "avgWordsPerParagraph": 16.506666666666668,
+         "uniqueWordCount": 0,
+         "uniqueWordList": [],
+         "uniqueWordFullList": [],
+         "names": [
+            {
+               "name": "NovaScriber",
+               "paragraphs": []
+            },
+            {
+               "name": "16",
+               "paragraphs": []
+            },
+            {
+               "name": "NovaSciber",
+               "paragraphs": []
+            },
+            {
+               "name": "Click",
+               "paragraphs": []
+            },
+            {
+               "name": "Word",
+               "paragraphs": []
+            },
+            {
+               "name": "At",
+               "paragraphs": []
+            },
+            {
+               "name": "Scrivener",
+               "paragraphs": []
+            },
+            {
+               "name": "Dropbox",
+               "paragraphs": []
+            },
+            {
+               "name": "OneDrive",
+               "paragraphs": []
+            },
+            {
+               "name": "You",
+               "paragraphs": []
+            },
+            {
+               "name": "Your",
+               "paragraphs": []
+            },
+            {
+               "name": "As",
+               "paragraphs": []
+            },
+            {
+               "name": "Wondering",
+               "paragraphs": []
+            },
+            {
+               "name": "Some",
+               "paragraphs": []
+            },
+            {
+               "name": "Right",
+               "paragraphs": []
+            },
+            {
+               "name": "In",
+               "paragraphs": []
+            },
+            {
+               "name": "Underneath",
+               "paragraphs": []
+            },
+            {
+               "name": "Sometimes",
+               "paragraphs": []
+            },
+            {
+               "name": "Go",
+               "paragraphs": []
+            }
+         ],
+         "sentenceCount": 104,
+         "sentenceStatistics": [
+            {
+               "key": "1 - 5 words",
+               "index": 0,
+               "value": 24
+            },
+            {
+               "key": "6 - 10 words",
+               "index": 5,
+               "value": 20
+            },
+            {
+               "key": "11 - 15 words",
+               "index": 10,
+               "value": 21
+            },
+            {
+               "key": "16 - 20 words",
+               "index": 15,
+               "value": 18
+            },
+            {
+               "key": "21 - 30 words",
+               "index": 20,
+               "value": 16
+            },
+            {
+               "key": "31 - 40 words",
+               "index": 30,
+               "value": 3
+            },
+            {
+               "key": "41 - 50 words",
+               "index": 40,
+               "value": 1
+            }
+         ],
+         "wordcountInDialogs": 37,
+         "dialogCount": 20
+      }
+   },
+   "summaryOnDocument": {},
+   "progress": {
+      "isOpen": false,
+      "todo": [],
+      "inProgress": [],
+      "done": []
+   },
+   "relatedItems": [],
+   "inheritedRelatedItems": {
+      "inherited": [],
+      "removed": []
+   },
+   "relatedObjects": [],
+   "searchReplace": {
+      "searchTerm": "",
+      "matchWholeWord": false,
+      "replaceWith": "",
+      "searchType": "normal",
+      "suspiciousTerms": "",
+      "show": "overview"
+   },
+   "relatedGrouped": [],
+   "lastSave": 1650573146607,
+   "subNodesRelatedItems": [],
+   "settingsChangeLog": {},
+   "spellCheckSuggestions": [],
+   "filedirectory": "C:\\mine\\study\\2cour2sem\\КУРСАЧ МОЙ\\nova-documents\\try\\33.15",
+   "roughWordCount": 1238
+}
