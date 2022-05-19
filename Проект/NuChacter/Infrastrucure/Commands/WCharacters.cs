@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,11 +10,11 @@ using NuCharacter.Models;
 
 namespace NuCharacter.ViewModels
 {
-    internal partial class MainWindowViewModel 
+    partial class MainWindowViewModel
     {
 
-        private List<Character> _All_Characters;
-        public List<Character> All_Characters { get => _All_Characters ?? new List<Character>(); set { _All_Characters = value; } }
+        private ObservableCollection<Character> _All_Characters;
+        public ObservableCollection<Character> All_Characters { get => _All_Characters ?? new ObservableCollection<Character>(); set { _All_Characters = value; } }
 
         #region Selected Character
 
@@ -36,8 +37,10 @@ namespace NuCharacter.ViewModels
             var group = obj as Group;
 
             var new_character = new Character();
-            
+
             Local_DB.Insert(new_character);
+
+            new_character.ImagePath = @"..\Data\template.png";
             new_character.Id_Group = gr_ID(group);
             new_character.Name = $"Character {All_Characters.Count}";
             Local_DB.Update(new_character);
@@ -54,7 +57,8 @@ namespace NuCharacter.ViewModels
         {
             if (!(obj is Character character)) return;
 
-            //SelectedGroup.Characters.Remove(SelectedCharacter);
+            Local_DB.Remove(character);
+            Refresh(SelectedGroup);
         }
         #endregion
 

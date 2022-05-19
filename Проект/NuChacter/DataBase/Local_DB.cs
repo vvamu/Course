@@ -12,7 +12,6 @@ namespace NuCharacter.DataBase
     internal static class Local_DB
     {
         public static SQLiteConnection db;
-        private static string file;
         static Local_DB()
         {
             //File.Delete(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"DataBase\NuCharacter.db"));
@@ -20,12 +19,12 @@ namespace NuCharacter.DataBase
 
         public static void Init()
         {
-            if (db != null || file != null) return;
+            if (db != null) return;
 
-            var filePath = @"DataBase\NuCharacter.db";
-            FileStream fileStream = File.Open(filePath, FileMode.OpenOrCreate);
-            //// получаем поток
-            //StreamWriter output = new StreamWriter(fileStream);
+            //var filePath = @"DataBase\NuCharacter.db";
+            //FileStream fileStream = File.Open(filePath, FileMode.OpenOrCreate);
+            ////// получаем поток
+            ////StreamWriter output = new StreamWriter(fileStream);
 
             var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"DataBase\NuCharacter.db");
             db = new SQLiteConnection(path);
