@@ -7,23 +7,22 @@
         
         
         
+        xmlns:pr="clr-namespace:NuCharacter.Properties"
+        
         xmlns:vm="clr-namespace:NuCharacter.ViewModels"
         xmlns:model="clr-namespace:NuCharacter.Models"
         
         
         
-        xmlns:hc="https://handyorg.github.io/handycontrol" 
-        x:Class="NuCharacter.MainWindow"
+        xmlns:hc="https://handyorg.github.io/handycontrol" x:Class="NuCharacter.MainWindow"
         mc:Ignorable="d" 
         
-    
-            
-        Title="NuCharacter" 
+        
+        Title="{Binding Title}" 
         Height="830" 
-        MinHeight="620"
-
-        Width="1080" 
+        Width="1280" 
         MinWidth="900" 
+        MinHeight="620"
        >
 
     <Window.DataContext>
@@ -32,17 +31,9 @@
 
 
     <Grid>
-        <!--
-        <Grid.RowDefinitions>
-            
-            <RowDefinition Height="7*"/>
-            <RowDefinition Height="808*"/>
-            
-        </Grid.RowDefinitions>
-        -->
 
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="70*" MinWidth="190"/>
+            <ColumnDefinition Width="50*" MinWidth="180"/>
             <ColumnDefinition Width="67*" MinWidth="210" MaxWidth="260" />
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="206*" />
@@ -51,7 +42,7 @@
 
 
         <!--Column 0 and 1 -->
-        <Grid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Background="Blue" Grid.RowSpan="2">
+        <Grid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Background="Blue">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="3*" />
                 <ColumnDefinition Width="6*" MinWidth="210"/>
@@ -81,8 +72,9 @@
                 <StackPanel Grid.Column="0" Orientation="Horizontal">
 
                     <Border Background="Black" Width="60" Height="60" Margin="10,0,0,0" CornerRadius="2" >
-                        <Image    
-                           Source="{Binding SelectedCharacter.ImagePath}"
+                        <Image  
+                           
+                           Style="{StaticResource ImageSource}"
                            />
                     </Border>
 
@@ -126,8 +118,8 @@
 
                 <!-- SelectedItem="{Binding SelectedGroup}"-->
 
-
-
+                
+                
                 <ListBox
                          Grid.Row="4"
                          ItemsSource="{Binding All_Groups, Mode=TwoWay}" 
@@ -146,7 +138,7 @@
                             </StackPanel>
                         </DataTemplate>
                     </ListBox.ItemTemplate>
-
+                    
                 </ListBox>
                 <!--
                 <ListView
@@ -227,7 +219,7 @@
                     </StackPanel.Resources>
 
                     <TextBlock Text="Count Characters: " />
-                    <TextBlock Text="{Binding SelectedGroup.Name}"/>
+                    <TextBlock Text="{Binding SelectedGroup}"/>
 
                     <fa:FontAwesome Icon="Plus">
                         <fa:FontAwesome.InputBindings>
@@ -235,34 +227,24 @@
                         </fa:FontAwesome.InputBindings>
                     </fa:FontAwesome>
 
-                    <fa:FontAwesome Icon="Minus">
+                    <fa:FontAwesome Icon="Minus" 
+                                            
+                                            >
                         <fa:FontAwesome.InputBindings>
                             <MouseBinding MouseAction="LeftClick" Command="{Binding RemoveCharacter}" CommandParameter="{Binding SelectedCharacter}" />
                         </fa:FontAwesome.InputBindings>
                     </fa:FontAwesome>
-                    <fa:FontAwesome Icon="Sort">
-                        <fa:FontAwesome.InputBindings>
-                            <MouseBinding MouseAction="LeftClick" Command="{Binding RemoveCharacter}" CommandParameter="{Binding SelectedCharacter}" />
-                        </fa:FontAwesome.InputBindings>
-                    </fa:FontAwesome>
+
 
                 </StackPanel>
 
 
-                <hc:SearchBar   
-                   
-                     
-                     Grid.Row="3"
+                <TextBox  
+                    Grid.Row="3"
                      VerticalAlignment="Center" 
-                     hc:InfoElement.Placeholder="Search"
-                     Text="{Binding FilterText, UpdateSourceTrigger=PropertyChanged}"
-                     HorizontalAlignment="Stretch" Margin="10,0,10,0"  
-                        />
-
-
-
-
-
+                     Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}"
+                     HorizontalAlignment="Stretch" Margin="10,0,10,0" 
+                         />
                 <Grid Grid.Row="4">
 
                     <ListBox 
@@ -270,7 +252,8 @@
                          ScrollViewer.VerticalScrollBarVisibility="Visible"  
                          ItemsSource="{Binding All_Characters}" 
                          SelectedItem="{Binding SelectedCharacter}" 
-                         SelectedIndex="0"
+                        SelectedIndex="0"
+                         
                          Margin="0,3,0,0">
 
                         <ListBox.Resources>
@@ -281,16 +264,20 @@
                 </Grid>
             </Grid>
         </Grid>
-
-
-
-        <GridSplitter Grid.Column="2" Width="5"  Visibility="Visible"
-                      HorizontalAlignment="Stretch" 
-                      Background="Black" Grid.RowSpan="2" />
+        <!--Button Bewteen 0 and 1-->
+        
+        <!-- 
+        <Button Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="77" Margin="151,649,0,0" VerticalAlignment="Top" Width="58" Content="Button" Command="{Binding CloseAppCommand}" />
+         -->
+        
+        
+        <GridSplitter Grid.Column="2" Width="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Visible" Background="Aqua" 
+                     />
 
         <!--Column 3-->
-        <Grid
-            Grid.Column="3" Margin="0,0,0,0" Grid.RowSpan="2"
+        <Grid 
+            HorizontalAlignment="Stretch"
+            Grid.Column="3" Grid.ColumnSpan="2"
             >
             <Grid.RowDefinitions>
                 <RowDefinition Height="119*"/>
@@ -299,7 +286,7 @@
 
 
             <Grid Grid.Row="0"
-                  Background="#FFBB4141"
+                  Background="Red"
                   HorizontalAlignment="Stretch">
 
                 <Grid.Resources>
@@ -308,22 +295,16 @@
                     </Style>
                 </Grid.Resources>
 
-                <hc:TextBox  hc:InfoElement.Placeholder="{Binding SelectedCharacter.Name}"
-                       Text="{Binding SelectedCharacter.Name}"
+                <Label Content="{Binding SelectedCharacter}"
                        FontSize="50"
+                       Background="Azure"
                        VerticalAlignment="Center"
                        HorizontalAlignment="Left" 
-                       Background="{x:Null}" BorderBrush="{x:Null}" 
-                            
                        />
-                <hc:SplitButton HorizontalAlignment="Right" Height="30" Margin="0,0,30,0">
-                    <fa:ImageAwesome Icon="Gear" Foreground="White" 
-                                >
-                        <fa:ImageAwesome.InputBindings>
-                            <MouseBinding MouseAction ="LeftCLick" Command="{Binding Ch_Settings}"  CommandParameter="{Binding SelectedCharacter}"/>
-                        </fa:ImageAwesome.InputBindings>
-                    </fa:ImageAwesome>
-                </hc:SplitButton>
+
+
+
+                
 
 
             </Grid>
@@ -334,12 +315,20 @@
                     <Button/>
                     <Button/>
                 </hc:ButtonGroup>
-
-
-
-
+                
+                
+                
+                
                 <Grid Grid.Row="1">
-                    <ContentControl Content="{Binding SelectedViewModel}"/>
+                    <TextBox HorizontalAlignment="Left" Margin="74,270,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="371" Height="50" />
+                    <TextBox
+                        Text="{Binding SelectedCharacter.Name}"
+                        HorizontalAlignment="Left" Margin="74,192,0,453" TextWrapping="NoWrap" Width="371" Height="50" />
+                    <TextBox HorizontalAlignment="Left" Margin="74,339,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="370" Height="50" />
+
+                    <Border BorderThickness="2" BorderBrush="red" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="531,26,0,0" Height="268" Width="263" Grid.RowSpan="2">
+                        <Image Style="{StaticResource ImageSource}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Stretch="Fill" />
+                    </Border>
                 </Grid>
             </Grid>
         </Grid>
